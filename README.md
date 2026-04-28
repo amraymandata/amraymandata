@@ -1,92 +1,108 @@
-<h1 align="center">Hi 👋, I'm Amr Ayman</h1>
-<h3 align="center">Aspiring Data Engineer | Python • SQL • C++</h3>
+<h1 align="center">Amr Ayman</h1>
+<h3 align="center">Data Engineer in Progress | Backend Developer | Problem Solver</h3>
 
 <p align="center">
-Turning Data into Scalable Solutions 🚀
+Building scalable systems through data, backend engineering, and algorithms.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Science Student at Fayoum University  
-- 📊 Aspiring Data Engineer  
-- 💡 Interested in Data Engineering, Backend Systems, and AI  
-- 🧠 ICPC Trainee | Problem Solver  
-- 🔭 Currently building practical projects in Data Engineering
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-### Data Engineering
-- ETL Pipelines
-- Data Cleaning
-- Pandas
-- SQL Server
-- Apache Spark (Learning)
-
-### Tools
-- Git & GitHub
-- VS Code
-- Linux
-- Jupyter Notebook
+- Computer Science Student at Fayoum University  
+- Founder of JUC Tracks  
+- Teaching Frontend, Backend and Cybersecurity tracks  
+- ICPC Trainee and Codeforces Pupil  
+- Practicing Algorithms & Data Structures in C++ and Python  
+- Focused on Data Engineering and Distributed Systems
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-### 🏥 Pharmacy Management System
-C++ project using file structures and indexing.
+<h3 align="center">Languages</h3>
 
-### ⚙️ ETL Data Pipeline
-Building and automating data workflows using Python and SQL.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql&theme=dark" />
+</p>
 
-### 📈 DataDose
-Data engineering pipeline for healthcare data.
+<h3 align="center">Backend and Tools</h3>
 
-### 🎓 UGPA Platform
-Educational platform project in progress.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux,bash&theme=dark" />
+</p>
 
----
+<h3 align="center">Data Engineering</h3>
 
-## 🌱 Currently Learning
+<p align="center">
 
-- Data Warehousing  
-- Apache Spark  
-- Airflow  
-- Backend Engineering  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
-
-## 🧠 Problem Solving
-
-- ICPC Trainee  
-- ECPC Participant  
-- Practicing Algorithms & Data Structures in C++
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amraymandata&show_icons=true&theme=tokyonight)
+### Pharmacy Management System
+File Structures based management system built with C++, indexing and efficient record handling.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amraymandata&layout=compact&theme=tokyonight)
+### ETL Data Pipeline
+Building data workflows using Python, SQL and transformation pipelines.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amraymandata&theme=tokyonight)
+### DataDose
+Healthcare-oriented data engineering project.
+
+### Competitive Programming Repository
+Algorithms and data structures implementations.
 
 ---
 
-## 🤝 Connect With Me
+## Problem Solving Profiles
 
-📧 amrayman1356@gmail.com  
-💼 LinkedIn: linkedin.com/in/amraymandata
+Codeforces: Pupil
+
+Topics Practiced:
+- Graphs  
+- Binary Search  
+- Dynamic Programming  
+- Greedy  
+- Data Structures
 
 ---
 
-⭐ Always building, always learning.
+## Current Focus
+
+```text
+Data Engineering
+Distributed Systems
+Apache Spark
+Kafka
+Backend Development
+System Design
+```
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=amraymandata&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amraymandata&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=amraymandata&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Connect
+
+Email: amraymandata@gmail.com
+
+GitHub: https://github.com/amraymandata
+
+LinkedIn: https://linkedin.com/in/amraymandata
