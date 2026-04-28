@@ -1,4 +1,4 @@
-<h1 align="center">Amr Ayman</h1>
+<h1 align="center">Amr Ayman Eid</h1>
 <h3 align="center">Data Engineer in Progress | Backend Developer | Problem Solver</h3>
 
 <p align="center">
