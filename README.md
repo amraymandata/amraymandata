@@ -100,14 +100,16 @@ Big Data Systems
 
 ## GitHub Analytics
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=amraymandata&show_icons=true&theme=tokyonight&hide_border=true"/>
+## Development Activity
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amraymandata&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img width="60%" src="https://streak-stats.demolab.com?user=amraymandata&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=amraymandata&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amraymandata&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amraymandata&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
