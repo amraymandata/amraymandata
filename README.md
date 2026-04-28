@@ -23,16 +23,12 @@ Building scalable systems through data, backend engineering, and algorithms.
 <h3 align="center">Languages</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,postgresql&theme=dark" />
 </p>
-
-<h3 align="center">Backend and Tools</h3>
-
+<h3 align="center">Data Engineering</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux,bash&theme=dark" />
 </p>
-
-<h3 align="center">Data Engineering</h3>
 
 <p align="center">
 
