@@ -1,8 +1,8 @@
 <h1 align="center">Amr Ayman Eid</h1>
-<h3 align="center">Data Engineer in Progress | Backend Developer | Problem Solver</h3>
+<h3 align="center">Big Data Engineer in Progress | Data Engineering | Problem Solver</h3>
 
 <p align="center">
-Building scalable systems through data, backend engineering, and algorithms.
+Building scalable data systems and distributed pipelines.
 </p>
 
 ---
@@ -13,8 +13,8 @@ Building scalable systems through data, backend engineering, and algorithms.
 - Founder of JUC Tracks  
 - Teaching Frontend, Backend and Cybersecurity tracks  
 - ICPC Trainee and Codeforces Pupil  
-- Practicing Algorithms & Data Structures in C++ and Python  
-- Focused on Data Engineering and Distributed Systems
+- Practicing Algorithms & Data Structures using C++ and Python  
+- Focused on Big Data Engineering, Distributed Systems and Data Pipelines
 
 ---
 
@@ -23,12 +23,16 @@ Building scalable systems through data, backend engineering, and algorithms.
 <h3 align="center">Languages</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,postgresql&theme=dark"/>
 </p>
-<h3 align="center">Data Engineering</h3>
+
+<h3 align="center">Tools</h3>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark"/>
 </p>
+
+<h3 align="center">Big Data Stack</h3>
 
 <p align="center">
 
@@ -43,24 +47,36 @@ Building scalable systems through data, backend engineering, and algorithms.
 ## Featured Projects
 
 ### Pharmacy Management System
-File Structures based management system built with C++, indexing and efficient record handling.
+File Structures based management system with indexing and efficient data handling.
 
 ### ETL Data Pipeline
-Building data workflows using Python, SQL and transformation pipelines.
+Extract, transform and load workflows using Python and SQL.
 
 ### DataDose
 Healthcare-oriented data engineering project.
 
-### Competitive Programming Repository
-Algorithms and data structures implementations.
+### Big Data Practice Labs
+Distributed processing experiments using Spark and Kafka.
 
 ---
 
-## Problem Solving Profiles
+## Core Interests
 
-Codeforces: Pupil
+- Big Data Engineering  
+- ETL / ELT Pipelines  
+- Distributed Systems  
+- Data Warehousing  
+- Stream Processing  
+- Data Modeling
+
+---
+
+## Problem Solving
+
+Codeforces Pupil
 
 Topics Practiced:
+
 - Graphs  
 - Binary Search  
 - Dynamic Programming  
@@ -72,12 +88,12 @@ Topics Practiced:
 ## Current Focus
 
 ```text
-Data Engineering
-Distributed Systems
 Apache Spark
-Kafka
-Backend Development
-System Design
+Apache Kafka
+Data Pipelines
+Distributed Processing
+Data Warehousing
+Big Data Systems
 ```
 
 ---
@@ -86,6 +102,7 @@ System Design
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amraymandata&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amraymandata&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
