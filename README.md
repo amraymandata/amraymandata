@@ -13,7 +13,7 @@ Building scalable data systems, distributed pipelines, and solving complex probl
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Big+Data+Engineering;Apache+Spark+%7C+Kafka+%7C+ETL;Problem+Solver+%7C+ICPC+Trainee;Building+Scalable+Data+Pipelines" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FFEA6C&center=true&vCenter=true&width=700&lines=Big+Data+Engineering;Apache+Spark+%7C+Kafka+%7C+ETL;Problem+Solver+%7C+ICPC+Trainee;Building+Scalable+Data+Pipelines" />
 </p>
 
 ---
