@@ -1,6 +1,5 @@
-````md
 <p align="center">
-  <img src="mp_.mp4" width="100%" />
+  <img src="assets/banner.gif" width="100%" alt="Dream It. Build It." />
 </p>
 
 <h1 align="center">Amr Ayman Eid</h1>
@@ -40,15 +39,16 @@ Building scalable data systems, distributed pipelines, and solving complex probl
 
 ---
 
-## Big Data Stack
+### Big Data Stack
 
 <p align="center">
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka"/>
+  
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ Build Real-Time Data Pipelines
 Learn Airflow & Docker
 Contribute to Open Source
 Become Stronger in Distributed Systems
-````
+```
 
 ---
 
@@ -132,22 +132,4 @@ Become Stronger in Distributed Systems
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
-```
 
----
-
-## GitHub Analytics
-
-## Development Activity
-
-<p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=amraymandata&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amraymandata&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amraymandata&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
